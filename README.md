@@ -28,8 +28,8 @@ Later, I want to explore how **AI/ML can be integrated into apps** to make them 
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sai-ramana-516765326)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachralaramanaemail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-ramana-516765326)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachralaramana@gmail.com)  
 
 ---
 
